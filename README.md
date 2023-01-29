@@ -4,8 +4,11 @@
 
 <img src="./br.png">
 
-<h1>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
-    e responder algumas perguntas com nosso modelo:
+<h1>PROJETO
+INDIVIDUAL
+Módulo 4 – Sistema Resilia 
+A proposta foi modelare responder
+algumas perguntas com nosso modelo:
     
    
     ⇨ Existem outras entidades além dessas três?
