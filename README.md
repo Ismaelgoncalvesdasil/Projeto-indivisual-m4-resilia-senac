@@ -7,7 +7,7 @@
 <h1>PROJETO
 INDIVIDUAL
 Módulo 4 – Sistema Resilia 
-A proposta foi modelare responder
+A proposta foi modelar e responder
 algumas perguntas com nosso modelo:
     
    
